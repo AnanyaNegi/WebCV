@@ -17,7 +17,7 @@ color: #66BFBF;
 
  }
 h2{
-  color: #66BFBF;
+  color: black;
   font-family: 'Montserrat', sans-serif;
 font-size: 2.5rem;
 
@@ -33,7 +33,7 @@ hr{
   width:4%;
   margin: 80px auto;
 }
-.top-container{background-color: #cff1ef;
+.top-container{background-color: black;
   position: relative;
   padding-top: 100px;
 
@@ -58,7 +58,7 @@ hr{
   margin: 100px 0;
 }
 .bottom-container{
-background-color: #66bfbf;
+background-color: black;
 padding: 50px 0 20px;
 
 }
